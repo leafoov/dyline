@@ -1,10 +1,6 @@
-trojan://b15e4060-3404-11ed-88bd-1239d0255272@ca-trojan.bonds.id:443
-trojan://df6f5ba0-3404-11ed-997a-1239d0255272@us-trojan.bonds.id:443
-trojan://1b162cb0-3405-11ed-a9a8-1239d0255272@ca-trojan.bonds.id:443
-trojan://2d2221b0-3405-11ed-bab4-1239d0255272@us-trojan.bonds.id:443
-trojan://4764e430-3405-11ed-9167-1239d0255272@ca-trojan.bonds.id:443
-trojan://587a80e0-3405-11ed-bd01-1239d0255272@us-trojan.bonds.id:443
-trojan://88f94fc0-3405-11ed-a7ba-1239d0255272@ca-trojan.bonds.id:443
-trojan://9ee89720-3405-11ed-96a3-1239d0255272@us-trojan.bonds.id:443
-trojan://bbea98a0-3405-11ed-b028-1239d0255272@ca-trojan.bonds.id:443
-trojan://cba748a0-3405-11ed-85f7-1239d0255272@us-trojan.bonds.id:443
+trojan://47fe4080-457c-11ed-abc8-1239d0255272@us-trojan.bonds.id:443/www.canals.com?sni=www.canals.com
+trojan://77a83f30-457c-11ed-b03b-1239d0255272@us-trojan.bonds.id:443/www.pastemagazine.com?sni=www.pastemagazine.com
+trojan://908dd7d0-457c-11ed-9d59-1239d0255272@us-trojan.bonds.id:443/www.edenbridge.org?sni=www.edenbridge.org
+trojan://b20afc80-457c-11ed-9259-1239d0255272@us-trojan.bonds.id:443/www.tristania.com?sni=www.tristania.com
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@www.canals.com:443?encryption=none&security=tls&type=ws&host=ukx-1.openv2ray.com&path=%2fopentunnel%3fuser%3dopentunnel.net-ksiang#opentunnel.net-ksiang
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@www.canals.com:80?encryption=none&security=none&type=ws&host=ukx-1.openv2ray.com&path=%2fopentunnel%3fuser%3dopentunnel.net-ksiang#opentunnel.net-ksiang
